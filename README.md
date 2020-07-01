@@ -1,2 +1,3 @@
 # my-first-repo
-this is my first repositary
+this is my first repository
+I am editing the README file. Adding some more details about the project description.
